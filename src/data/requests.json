@@ -1,0 +1,118 @@
+[
+  {
+    "id": 1776850952922,
+    "type": "ai",
+    "user": "demo-user",
+    "prompt": "skd",
+    "status": "pending",
+    "retries": 0,
+    "createdAt": 1776850952922
+  },
+  {
+    "id": 1776852243172,
+    "type": "ai",
+    "prompt": "Create a portfolio website",
+    "status": "pending",
+    "retries": 0,
+    "createdAt": 1776852243172
+  },
+  {
+    "id": 1776855820325,
+    "type": "ai",
+    "user": "anonymous",
+    "prompt": "Contact Admin please",
+    "status": "processing",
+    "retries": 0,
+    "createdAt": 1776855820325
+  },
+  {
+    "id": 1776855827074,
+    "type": "ai",
+    "user": "anonymous",
+    "prompt": "Contact Admin please",
+    "status": "processing",
+    "retries": 0,
+    "createdAt": 1776855827074
+  },
+  {
+    "id": 1776855829067,
+    "type": "ai",
+    "user": "anonymous",
+    "prompt": "Contact Admin please",
+    "status": "processing",
+    "retries": 0,
+    "createdAt": 1776855829068
+  },
+  {
+    "id": 1776855831147,
+    "type": "ai",
+    "user": "anonymous",
+    "prompt": "Contact Admin please",
+    "status": "processing",
+    "retries": 0,
+    "createdAt": 1776855831147
+  },
+  {
+    "id": 1776855833353,
+    "type": "ai",
+    "user": "anonymous",
+    "prompt": "Contact Admin please",
+    "status": "processing",
+    "retries": 0,
+    "createdAt": 1776855833353
+  },
+  {
+    "id": 1776855912497,
+    "type": "ai",
+    "user": "anonymous",
+    "prompt": "Name Gilbert\nemail PEnaldo442oons@test.com\nCreate a website",
+    "status": "processing",
+    "retries": 0,
+    "createdAt": 1776855912497
+  },
+  {
+    "id": 1776869384829,
+    "type": "ai",
+    "user": "guest",
+    "prompt": "Explain cloud computing",
+    "status": "admin-review",
+    "retries": 0,
+    "createdAt": 1776869384829
+  },
+  {
+    "id": 1776902242693,
+    "type": "ai",
+    "user": "demo-user",
+    "prompt": "Fixing user frontend",
+    "status": "admin-review",
+    "retries": 0,
+    "createdAt": 1776902242693
+  },
+  {
+    "id": 1776988172748,
+    "ticket": "REQ-1776988172748",
+    "name": "Gilbert",
+    "email": "penaldo442oons@gmail.com",
+    "message": "Stripe unlock flow",
+    "status": "pending",
+    "createdAt": 1776988172748
+  },
+  {
+    "id": 1776988215742,
+    "type": "ai",
+    "user": "welp-workspace",
+    "prompt": "An e commerce app",
+    "status": "admin-review",
+    "retries": 0,
+    "createdAt": 1776988215742
+  },
+  {
+    "id": 1776990358596,
+    "ticket": "REQ-1776990358596",
+    "name": "Gilbert",
+    "email": "penaldo442oons@gmail.com",
+    "message": "Testing AI APIs",
+    "status": "pending",
+    "createdAt": 1776990358596
+  }
+]

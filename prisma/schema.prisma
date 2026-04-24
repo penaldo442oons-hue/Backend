@@ -4,7 +4,14 @@ generator client {
 
 datasource db {
   provider = "sqlite"
-  url      = "file:./dev.db"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id        Int      @id @default(autoincrement())
+  email     String   @unique
+  password  String
+  createdAt DateTime @default(now())
 }
 
 model Request {
@@ -16,9 +23,9 @@ model Request {
   createdAt DateTime @default(now())
 }
 
-model User {
-  id        Int      @id @default(autoincrement())
-  email     String   @unique
-  password  String
+model Admin {
+  id       String   @id @default(uuid())
+  email    String   @unique
+  password String
   createdAt DateTime @default(now())
 }
